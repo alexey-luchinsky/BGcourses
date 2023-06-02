@@ -1,0 +1,24 @@
+Code,Name,Credits,season,grade,Lector,type,number_grade
+CS_5620,Database Mgmt Systems,3,Fall_2020,B,Ray Kresman,electives,3.0
+CS_6010,Data Science Programming,3,Fall_2020,A,Robert C. Green II,electives,4.0
+MATH_6410,Probability Theory I,3,Fall_2020,A,Wei Ning,electives,4.0
+OR_6610,Linear-Integer Prgmg,3,Fall_2020,A,Christopher Rump,electives,4.0
+MATH_6420,Math Statistics II,3,Spring_2021,A,Wei Ning,electives,4.0
+STAT_5160,Time Series Analysis,3,Spring_2021,A,Yuhang Xu,electives,4.0
+STAT_6440,Data Mining,3,Spring_2021,A,Shuchismita Sarkar,electives,4.0
+DATA_6910,Data Science Project,3,Fall_2021,S,Yuhang Xu,electives,4.0
+MATH_6570,Statistical Computing,3,Fall_2021,A,Maria Rizzo,electives,4.0
+STAT_5020,Regression Analysis,3,Fall_2021,A,Shuchismita Sarkar,electives,4.0
+CS_6500,Big Data Analytics,3,Spring_2022,A,Shuteng Niu,required,4.0
+MATH_6820,Topics In Math or Stat,3,Spring_2022,A,Craig Zirbel,electives,4.0
+MATH_7590,Gen Linear Models,3,Spring_2022,A,Hanfeng Chen,required,4.0
+CS_5170,Intro Parallel Computing,3,Fall_2022,A,Robert C. Green II,electives,4.0
+CS_7300,Unsupervised Feature Learning,3,Fall_2022,A,Qing Tian,required,4.0
+MATH_6490,Statistical Graphics,3,Fall_2022,A,Junfeng Shang,electives,4.0
+CS_5630,Python for Comput & Data Sci,3,Spring_2023,A,Qing Tian,electives,4.0
+STAT_7440,Adv Topics in Data Mining,3,Spring_2023,A,Trent D. Buskirk,required,4.0
+PHIL_6400,Data Science Ethics,3,Spring_2023,A,Justin Donhauser,required,4.0
+DATA_7770,Data Science Exploration,1,Fall_2023,IP,,required,
+MATH_6440,Stochastic Processes,3,Fall_2023,IP,Craig Zirbel,electives,
+MATH_6480,Bayesian Decision Theory,3,Fall_2023,IP,Wei Ning,electives,
+MATH_7570,Linear Stat Inference,3,Fall_2023,IP,Junfeng Shang,required,
