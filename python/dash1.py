@@ -4,7 +4,7 @@ import dash_bootstrap_components as dbc
 
 
 
-long_req = pd.read_csv("../csv/long_list_raw.csv")
+long_req = pd.read_csv("./data/long_list_raw.csv")
 subjects = long_req["Code"].str.split("_").str.get(0).unique()
 ms_seasons = ['Fall_2020', 'Spring_2021', 'Fall_2021']
 phd_seasons = ['Spring_2022', 'Fall_2022', 'Spring_2023', 'Fall_2023']
